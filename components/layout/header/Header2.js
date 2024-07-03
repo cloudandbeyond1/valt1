@@ -32,7 +32,7 @@ export default function Header2({ scroll, isMobileMenu, handleMobileMenu }) {
                 </div>
                 <div className="menu-wrap">
                   <nav className="menu-nav">
-                    <div className="logo">
+                    <div className="logo" style={{ width: "250px" }}>
                       <Link href="/">
                         <img src="/assets/img/logo/logo02.png" alt="Logo" />
                       </Link>

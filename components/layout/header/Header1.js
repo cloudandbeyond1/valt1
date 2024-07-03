@@ -20,7 +20,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu }) {
                 </div>
                 <div className="menu-wrap">
                   <nav className="menu-nav">
-                    <div className="logo">
+                    <div className="logo" style={{ width: "250px" }}>
                       <Link href="/">
                         <img src="/assets/img/logo/logo.png" alt="Logo" />
                       </Link>
@@ -28,7 +28,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu }) {
                     <div className="navbar-wrap main-menu d-none d-lg-flex">
                       <ul className="navigation">
                         <li className="active menu-item-has-children tg-mega-menu-has-children">
-                          <Link href="/">Home</Link>
+                          {/* <Link href="/">Home</Link> */}
                           {/* <div className="tg-mega-menu-wrap black-bg">
                                                         <div className="row row-cols-1 row-cols-lg-4 row-cols-xl-4">
                                                             <div className="col">
@@ -77,7 +77,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu }) {
                         <li>
                           <Link href="/#">Street Review</Link>
                         </li>
-                        <li className="menu-item-has-children">
+                        <li>
                           <Link href="#">Student Buddy</Link>
                           {/* <ul className="sub-menu">
                             <li>
@@ -103,7 +103,7 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu }) {
                             </li>
                           </ul> */}
                         </li>
-                        <li className="menu-item-has-children">
+                        <li>
                           <Link href="#">Housing Checklist</Link>
                           {/* <ul className="sub-menu">
                             <li>

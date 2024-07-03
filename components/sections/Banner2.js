@@ -54,7 +54,7 @@ export default function Banner2() {
                 </p>
                 <div className="banner-btn-two">
                   <Link
-                    href="/work"
+                    href="/blog"
                     className="btn btn-three wow fadeInRight"
                     data-wow-delay=".6s"
                   >
