@@ -1,0 +1,32 @@
+.additional-info {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+  }
+  
+  .info-item {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    width: 48%; /* Adjust width as needed */
+    margin-bottom: 10px;
+  }
+  
+  .info-item i {
+    color: #555;
+  }
+  
+  .blog-grid-item .blog-grid-content .title a {
+    text-decoration: none;
+    color: #333;
+  }
+  
+  .blog-grid-item .blog-grid-content .date {
+    color: #888;
+  }
+  
+  .blog-grid-thumb img {
+    width: 100%;
+    height: auto;
+  }
+  

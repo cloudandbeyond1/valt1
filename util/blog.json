@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "title": "74 Georgia-Roxbury",
+        "img": "blog_img01.jpg",
+        "category": "Gaming",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 2,
+        "title": "75 Georgia-Roxbury",
+        "img": "blog_img02.jpg",
+        "category": "Tech",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 3,
+        "title": "76 Georgia-Roxbury",
+        "img": "blog_img01.jpg",
+        "category": "Movie",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 4,
+        "title": "77 Georgia-Roxbury",
+        "img": "blog_img02.jpg",
+        "category": "Sports",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 5,
+        "title": "78 Georgia-Roxbury",
+        "img": "blog_img01.jpg",
+        "category": "Gaming",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 6,
+        "title": "79 Georgia-Roxbury",
+        "img": "blog_img02.jpg",
+        "category": "Tech",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 7,
+        "title": "80 Georgia-Roxbury",
+        "img": "blog_img01.jpg",
+        "category": "Movie",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 8,
+        "title": "81 Georgia-Roxbury",
+        "img": "blog_img02.jpg",
+        "category": "Sports",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 1,
+        "title": "82 Georgia-Roxbury",
+        "img": "blog_img01.jpg",
+        "category": "Gaming",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 2,
+        "title": "83 Georgia-Roxbury",
+        "img": "blog_img02.jpg",
+        "category": "Tech",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 3,
+        "title": "84 Georgia-Roxbury",
+        "img": "blog_img01.jpg",
+        "category": "Movie",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 4,
+        "title": "74 Georgia-Roxbury",
+        "img": "blog_img02.jpg",
+        "category": "Sports",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 5,
+        "title": "74 Georgia-Roxbury",
+        "img": "blog_img01.jpg",
+        "category": "Gaming",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 6,
+        "title": "74 Georgia-Roxbury",
+        "img": "blog_img02.jpg",
+        "category": "Tech",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 7,
+        "title": "74 Georgia-Roxbury",
+        "img": "blog_img01.jpg",
+        "category": "Movie",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 8,
+        "title": "74 Georgia-Roxbury",
+        "img": "blog_img02.jpg",
+        "category": "Sports",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 1,
+        "title": "74 Georgia-Roxbury",
+        "img": "blog_img01.jpg",
+        "category": "Gaming",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 2,
+        "title": "74 Georgia-Roxbury",
+        "img": "blog_img02.jpg",
+        "category": "Tech",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 3,
+        "title": "74 Georgia-Roxbury",
+        "img": "blog_img01.jpg",
+        "category": "Movie",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 4,
+        "title": "74 Georgia-Roxbury",
+        "img": "blog_img02.jpg",
+        "category": "Sports",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 5,
+        "title": "74 Georgia-Roxbury",
+        "img": "blog_img01.jpg",
+        "category": "Gaming",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 6,
+        "title": "74 Georgia-Roxbury",
+        "img": "blog_img02.jpg",
+        "category": "Tech",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 7,
+        "title": "74 Georgia-Roxbury",
+        "img": "blog_img01.jpg",
+        "category": "Movie",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    },
+    {
+        "id": 8,
+        "title": "74 Georgia-Roxbury",
+        "img": "blog_img02.jpg",
+        "category": "Sports",
+        "author": "miranda h.",
+        "date": "25 April 2023"
+    }
+]
