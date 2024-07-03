@@ -213,7 +213,7 @@ export default function Footer2() {
                 <div className="col-lg-8">
                   <div className="copyright-text">
                     <p>
-                      Copyright © {new Date().getFullYear()} ValoTeam All rights
+                      Copyright © {new Date().getFullYear()} DEX.AI All rights
                       reserved.
                     </p>
                   </div>
