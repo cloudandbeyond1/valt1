@@ -20,9 +20,9 @@ export default function Header1({ scroll, isMobileMenu, handleMobileMenu }) {
                 </div>
                 <div className="menu-wrap">
                   <nav className="menu-nav">
-                    <div className="logo" style={{ width: "250px" }}>
+                    <div className="logo">
                       <Link href="/">
-                        <img src="/assets/img/logo/logo.png" alt="Logo" />
+                        <img src="/assets/img/logo/logo.png" alt="Logo"  style={{ width: "180px" }} />
                       </Link>
                     </div>
                     <div className="navbar-wrap main-menu d-none d-lg-flex">
