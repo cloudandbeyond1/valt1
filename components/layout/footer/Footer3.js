@@ -88,7 +88,7 @@ export default function Footer3() {
                             <div className="row">
                                 <div className="col-lg-6">
                                     <div className="copyright-text">
-                                        <p>Copyright © {new Date().getFullYear()} DEX.AI All rights reserved.</p>
+                                        <p>Copyright © {new Date().getFullYear()} ValoTeam All rights reserved.</p>
                                     </div>
                                 </div>
                                 <div className="col-lg-6">
